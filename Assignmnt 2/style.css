@@ -1,0 +1,22 @@
+* {
+  margin: auto;
+  padding: auto;
+}
+
+h1 {
+  font: 100;
+  color: blue;
+  size: 0ch;
+}
+
+p {
+  font: 900;
+  color: red;
+  size: 0cqmax;
+}
+
+img {
+  border: 2px, solid rebeccapurple;
+  padding: 6px 4px 10px;
+  /* height: 40vh; */
+}
